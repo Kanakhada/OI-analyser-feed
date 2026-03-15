@@ -1,0 +1,12 @@
+{
+  "name": "oi-analyser-feed",
+  "version": "1.0.0",
+  "main": "feed.js",
+  "type": "module",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0"
+  },
+  "scripts": {
+    "start": "node feed.js"
+  }
+}
